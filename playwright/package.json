@@ -1,0 +1,23 @@
+{
+  "name": "accuknox-user-management-tests",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript E2E automation for OrangeHRM Admin > User Management, using a locators/pages/data/specs structure with worker-scoped fixtures.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report",
+    "allure:open": "npx allure serve allure-results"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^24.13.3",
+    "allure-commandline": "^2.13.9",
+    "allure-playwright": "^2.0.0",
+    "typescript": "^5.9.3"
+  }
+}

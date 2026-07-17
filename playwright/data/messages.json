@@ -1,0 +1,8 @@
+{
+  "USER_SAVED": "Successfully Saved",
+  "USER_UPDATED": "Successfully Updated",
+  "USER_DELETED": "Successfully Deleted",
+  "PASSWORD_MISMATCH": "Passwords do not match",
+  "DUPLICATE_USERNAME": "Already exists",
+  "NO_RECORDS_FOUND": "No Records Found"
+}

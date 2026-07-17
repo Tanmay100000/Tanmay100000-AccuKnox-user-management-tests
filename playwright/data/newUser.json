@@ -1,0 +1,9 @@
+{
+  "USER_ROLE": "ESS",
+  "EMPLOYEE_NAME": "Amelia Brown",
+  "STATUS": "Enabled",
+  "USERNAME_PREFIX": "qa_user4",
+  "PASSWORD": "Test@1234",
+  "CONFIRM_PASSWORD": "Test@1234",
+  "MISMATCHED_CONFIRM_PASSWORD": "Different@5678"
+}
